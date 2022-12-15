@@ -1,2 +1,2 @@
-# homework-introjavascript
+# homework-avascript
 First Homework of JavaScript
