@@ -1,0 +1,21 @@
+body { 
+    font-family: sans-serif;
+}
+
+
+table {
+    border: 3px solid #000000;
+    text-align: center;
+
+}
+
+th {
+    background-color: #00ffff;
+    border: 2px solid #000000;
+}
+
+td {
+    background-color: #0000ff;
+    color: #ffff00;
+    border: 2px solid #000000;
+}
